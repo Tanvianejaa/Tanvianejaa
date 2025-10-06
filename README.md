@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Tanvianejaa
-- 👀 I’m interested in robotics, artificial intelligence, and innovative tech solutions.
-- 🌱 I’m currently learning Robotics and AI as part of my bachelor's degree.
-- 💞️ I’m looking to collaborate on robotics projects, AI research, and open-source contributions.
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+👋 Hi, I’m @Tanvianejaa
+👀 I’m passionate about robotics, artificial intelligence, and innovative tech solutions.
+🌱 I’m currently pursuing a Bachelor’s in Robotics and AI, building expertise in Machine Learning, NLP, Computer Vision, and Robot Kinematics.
+💻 Skills: C, C++, Python, Matlab | VS Code, Jupyter Notebook, Git | Scikit-learn, XGBoost, NLTK, OpenCV, MediaPipe, Pandas, NumPy, matplotlib, Seaborn
+💡 Concepts & Expertise: Machine Learning, NLP, Computer Vision, Data Preprocessing & Feature Engineering, Model Evaluation, AI, Robot Kinematics, Data Science
+🤝 I’m looking to collaborate on robotics projects, AI research, and open-source contributions.
+🌟 Soft Skills: Good communication, Time management, Leadership
 
